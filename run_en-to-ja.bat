@@ -5,4 +5,4 @@ cd vits-models
 start cmd /k python app.py --api
 
 cd ..
-start cmd /k python japanese_to_english.py
+start cmd /k python english_to_japanese.py
