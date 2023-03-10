@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+transformers
+openai
+keyboard
+pyaudio
+requests
