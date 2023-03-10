@@ -2,7 +2,7 @@
 This project utilizes ChatGPT API and whisper to provide English text to Japanese translation while also providing VITS text to speech. You speak, it speaks.
 
 ## Future Plans
-- Program which runs in seperate cli which allows you to translate speech heard from your systems audio 
+- WhisperAI real time which runs in seperate cli which allows you to translate speech heard from your systems audio 
 - Implement tortoise-tts for English-to-English near real time voice changer
 - different python programs for English to all langauges (require tortoise-tts model good enough to do this, otherwise you're forced to use Elevenlabs API, will make new repo for this) 
 - GUI 
