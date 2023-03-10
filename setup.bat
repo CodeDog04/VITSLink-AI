@@ -3,7 +3,7 @@ echo Installing required packages...
 pip install -r requirements.txt
 
 echo Cloning whisper repository...
-git clone https://github.com/openai/whisper.git
+pip install git+https://github.com/openai/whisper.git 
 cd whisper
 pip install -r requirements.txt
 python setup.py
