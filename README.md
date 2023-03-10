@@ -13,6 +13,7 @@ English Input -> English Text (whisper) -> Japanese Text translation (OpenAI API
 
 ## Install
 setup.bat
+paste the OpenAI API key into the config.py file
 
 ## How to run
 Just run "run_en-to-ja.bat" file
