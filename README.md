@@ -15,7 +15,10 @@ English Input -> English Text (whisper) -> Japanese Text translation (OpenAI API
 setup.bat
 
 ## How to run
-either run vits "python app.py --api" and the "english_to_japanese_vits.py" or just run the run_en-to-ja.bat file
+Just run "run_en-to-ja.bat" file
+or run vits "python app.py --api" and the Language Link "english_to_japanese_vits.py" 
+
+
 
 ## Requirements
 run setup.bat to auto clone all repos listed below except for voicemeeter
@@ -34,8 +37,3 @@ run setup.bat to auto clone all repos listed below except for voicemeeter
 
 - Voicemeeter - https://vb-audio.com/Voicemeeter/
     - Allows you to play audio generated from the translator app through your mic in games or elsewhere 
-
-
-## Documentation
-
-## Bug Reporting
