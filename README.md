@@ -1,4 +1,4 @@
-# OpenAI English to Japanese/Chinese VITS tts #
+# OpenAI English to Japanese/Chinese with VITS #
 This project utilizes ChatGPT API and whisper to provide English text to Japanese translation while also providing VITS text to speech. You speak, it speaks.
 
 ## Future Plan
