@@ -8,7 +8,7 @@ This project utilizes ChatGPT API and whisper to provide English text to Japanes
 - GUI 
 
 ## How it works
-English Input -> English Text (whisper) -> Japanese Text translation (OpenAI API) -> Japanese Voice (VITS)  
+English Voice input -> English Text (whisper) -> Japanese text translation (OpenAI API) -> Japanese Voice (VITS)  
 
 ## Install
 setup.bat
