@@ -11,6 +11,12 @@ This project utilizes ChatGPT API and whisper to provide English text to Japanes
 ## How it works
 English Input -> English Text (whisper) -> Japanese Text translation (OpenAI API) -> Japanese Voice (VITS)  
 
+## Install
+setup.bat
+
+## How to run
+either run vits "python app.py --api" and the "english_to_japanese_vits.py" or just run the run_en-to-ja.bat file
+
 ## Requirements
 run setup.bat to auto clone all repos listed below except for voicemeeter
 
