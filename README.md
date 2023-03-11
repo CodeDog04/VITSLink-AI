@@ -15,7 +15,7 @@ setup.bat
 paste the OpenAI API key into the config.py file
 
 ## How to run
-Just run "run_en-to-ja.bat" file
+Just run "run.bat" file
 or run vits "python app.py --api" and the Language Link "english_to_japanese_vits.py" 
 
 
